@@ -1,0 +1,6 @@
+{
+  "name": "OR Master – Operations Research & Linear Programming",
+  "description": "Master Operations Research and Linear Programming with interactive numerical solvers (Simplex, Transportation, Assignment, Game Theory), complete syllabus, MCQs, and mock examinations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
